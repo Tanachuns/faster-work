@@ -49,7 +49,7 @@ export default function Home() {
 
       {/* Menu🔥 */}
 
-      <div className=" w-4/6 m-auto bg-white rounded-lg p-4 relative bottom-[40] shadow-xl flex justify-around items-center">
+      <div className=" w-4/6 m-auto bg-white rounded-lg p-4 relative bottom-[40px] shadow-xl flex justify-around items-center">
         <a href="">
           <div className="text-center">
             <svg
