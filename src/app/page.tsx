@@ -268,6 +268,118 @@ export default function Home() {
           ></iframe>
         </div>
       </div>
+      <div className=" bg-blue-50">
+        <div className="w-4/6  m-auto p-5 text-center ">
+          <p className=" text-xl">
+            มีงานสำเร็จกว่า 8,275,150,000 ชิ้น โดยบริษัทชั้นนำต่างๆ
+            เชื่อใจในความเร็วของ Fasterwork
+          </p>
+          <div className="grid  grid-cols-4">
+            <div>
+              <img
+                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
+                width={170}
+                alt=""
+              />
+            </div>
+            <div>
+              <img
+                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
+                width={170}
+                alt=""
+              />
+            </div>{" "}
+            <div>
+              <img
+                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
+                width={170}
+                alt=""
+              />
+            </div>{" "}
+            <div>
+              <img
+                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
+                width={170}
+                alt=""
+              />
+            </div>{" "}
+            <div>
+              <img
+                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
+                width={170}
+                alt=""
+              />
+            </div>
+            <div>
+              <img
+                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
+                width={170}
+                alt=""
+              />
+            </div>{" "}
+            <div>
+              <img
+                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
+                width={170}
+                alt=""
+              />
+            </div>{" "}
+            <div>
+              <img
+                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
+                width={170}
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="w-4/6  m-auto p-5 ">
+        <p className="text-4xl text-red-400 font-semibold">
+          Fasterwork ที่หนึ่งฟรีแลนซ์แห่งความเร็ว
+        </p>
+        <p className="mt-10">
+          ในยุคดิจิทัลที่ทุกอย่างขับเคลื่อนด้วยความเร็ว
+          การหาฟรีแลนซ์ที่ใช่และรวดเร็วเป็นสิ่งสำคัญ Fastwork.vercel.app
+          เข้าใจดีถึงความต้องการนี้
+          เราจึงได้ออกแบบแพลตฟอร์มที่เชื่อมต่อคุณกับฟรีแลนซ์มืออาชีพได้อย่างฉับไว
+          ด้วยระบบที่ใช้งานง่าย
+          คุณสามารถค้นหาฟรีแลนซ์ที่ตรงกับความต้องการของคุณได้ภายในไม่กี่นาที
+          ไม่ว่าจะเป็นงานออกแบบกราฟิก เขียนบทความ แปลภาษา หรือพัฒนาเว็บไซต์
+          เราคัดสรรฟรีแลนซ์ที่มีคุณภาพและพร้อมเริ่มงานทันที
+          ช่วยให้คุณประหยัดเวลาและได้งานที่มีคุณภาพในเวลาอันรวดเร็ว
+          หมดปัญหาการรอคิวนาน หรือกระบวนการจ้างงานที่ยุ่งยาก
+          เริ่มต้นโปรเจกต์ของคุณได้เลยวันนี้ที่ Fastwork.vercel.app
+        </p>
+        <br />
+        <p>
+          Fastwork.vercel.app คือคำตอบสำหรับผู้ที่ต้องการ "ความเร็ว"
+          ระบบของเราถูกพัฒนาขึ้นมาเพื่อมอบประสบการณ์การใช้งานที่รวดเร็วและราบรื่นที่สุด
+          ตั้งแต่การค้นหาฟรีแลนซ์ การดูผลงาน การติดต่อสื่อสาร และการชำระเงิน
+          ทุกขั้นตอนถูกออกแบบมาให้กระชับและมีประสิทธิภาพ
+          คุณสามารถเปรียบเทียบราคาและผลงานของฟรีแลนซ์หลายคนได้อย่างรวดเร็ว
+          เลือกคนที่ใช่ที่สุดสำหรับโปรเจกต์ของคุณ
+          ระบบการแชทที่รวดเร็วของเราช่วยให้คุณสื่อสารกับฟรีแลนซ์ได้โดยตรง
+          ตกลงรายละเอียดงานและรับงานได้ทันใจ
+          ไม่ต้องเสียเวลากับการติดต่อผ่านช่องทางอื่น Fastwork.vercel.app
+          ช่วยให้คุณได้งานที่รวดเร็วทันใจ ตอบโจทย์ทุกความต้องการในยุคดิจิทัล
+        </p>
+        <br />
+        <p>
+          ไม่ต้องเสียเวลาค้นหาฟรีแลนซ์จากหลายๆ แหล่งอีกต่อไป Fastwork.vercel.app
+          รวบรวมฟรีแลนซ์มืออาชีพจากหลากหลายสาขาไว้ในที่เดียว
+          ด้วยระบบการค้นหาที่รวดเร็วและแม่นยำ คุณสามารถค้นหาฟรีแลนซ์ตามทักษะ
+          ประสบการณ์ และงบประมาณที่ต้องการได้ทันที
+          เราเข้าใจดีว่าเวลาเป็นสิ่งมีค่า Fastwork.vercel.app
+          จึงมุ่งมั่นที่จะช่วยให้คุณประหยัดเวลาและได้งานที่มีคุณภาพในเวลาอันรวดเร็ว
+          ระบบการชำระเงินที่ปลอดภัยของเราช่วยให้คุณมั่นใจได้ว่างานจะถูกส่งมอบตามที่ตกลง
+          และฟรีแลนซ์จะได้รับค่าตอบแทนอย่างเป็นธรรม
+          สัมผัสประสบการณ์การจ้างงานที่รวดเร็วและมีประสิทธิภาพได้แล้ววันนี้ที่
+          Fastwork.vercel.app "เร็ว แรง ทะลุทุกข้อจำกัด"
+        </p>
+        <hr className="mt-10" />
+      </div>
+
       <Footer />
     </>
   );
