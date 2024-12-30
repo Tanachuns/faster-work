@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fasterwork แหล่งรวมฟรีแลนซ์ใจร้อน นอนคุก ซีเล็ง ซู้หริ่ง",
+  title: "Fasterwork.vercel.app แหล่งรวมฟรีแลนซ์ใจร้อน นอนคุก ซีเล็ง ซู้หริ่ง",
   description: "เร็วกว่าก็พอป่ะ",
 };
 

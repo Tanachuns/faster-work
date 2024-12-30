@@ -1,3 +1,4 @@
+import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 
 export default function Home() {
@@ -56,7 +57,7 @@ export default function Home() {
               viewBox="0 0 24 24"
               strokeWidth={1.5}
               stroke="currentColor"
-              className="size-14 m-auto relative top-0 hover:top-[-6] transition-all"
+              className="size-14 m-auto  hover:pb-2 transition-all"
             >
               <path
                 strokeLinecap="round"
@@ -77,7 +78,7 @@ export default function Home() {
               viewBox="0 0 24 24"
               strokeWidth={1.5}
               stroke="currentColor"
-              className="size-14 m-auto relative top-0 hover:top-[-6] transition-all"
+              className="size-14 m-auto  hover:pb-2 transition-all"
             >
               <path
                 strokeLinecap="round"
@@ -98,7 +99,7 @@ export default function Home() {
               viewBox="0 0 24 24"
               strokeWidth={1.5}
               stroke="currentColor"
-              className="size-14 m-auto relative top-0 hover:top-[-6] transition-all"
+              className="size-14 m-auto  hover:pb-2 transition-all"
             >
               <path
                 strokeLinecap="round"
@@ -118,7 +119,7 @@ export default function Home() {
               viewBox="0 0 24 24"
               strokeWidth={1.5}
               stroke="currentColor"
-              className="size-14 m-auto relative top-0 hover:top-[-6] transition-all"
+              className="size-14 m-auto  hover:pb-2 transition-all"
             >
               <path
                 strokeLinecap="round"
@@ -138,7 +139,7 @@ export default function Home() {
               viewBox="0 0 24 24"
               strokeWidth={1.5}
               stroke="currentColor"
-              className="size-14 m-auto relative top-0 hover:top-[-6] transition-all"
+              className="size-14 m-auto  hover:pb-2 transition-all"
             >
               <path
                 strokeLinecap="round"
@@ -255,11 +256,11 @@ export default function Home() {
             <p>ไม่ต้องพิจารณา ไม่ต้องอธิบาย ไม่ต้องตรวจสอบ เพราะเรา Faster🔥</p>
           </div>
         </div>
-        <div>
-          {" "}
+
+        <div className=" border shadow-lg rounded-lg">
           <iframe
             width="360"
-            height="315"
+            height="200"
             src="https://www.youtube.com/embed/hB7CDrVnNCs?si=xe7cEZ34kTIyXbh6"
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -267,6 +268,7 @@ export default function Home() {
           ></iframe>
         </div>
       </div>
+      <Footer />
     </>
   );
 }
