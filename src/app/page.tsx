@@ -1,5 +1,7 @@
 import Footer from "@/components/Footer";
+import Image from "next/image";
 import Navbar from "@/components/Navbar";
+import Partner from "@/images/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png";
 
 export default function Home() {
   return (
@@ -274,62 +276,30 @@ export default function Home() {
             มีงานสำเร็จกว่า 8,275,150,000 ชิ้น โดยบริษัทชั้นนำต่างๆ
             เชื่อใจในความเร็วของ Fasterwork
           </p>
-          <div className="grid  grid-cols-4">
+          <div className="grid  grid-cols-4 ">
             <div>
-              <img
-                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
-                width={170}
-                alt=""
-              />
+              <Image src={Partner} width={170} height={170} alt="parter" />
             </div>
             <div>
-              <img
-                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
-                width={170}
-                alt=""
-              />
-            </div>{" "}
-            <div>
-              <img
-                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
-                width={170}
-                alt=""
-              />
-            </div>{" "}
-            <div>
-              <img
-                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
-                width={170}
-                alt=""
-              />
-            </div>{" "}
-            <div>
-              <img
-                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
-                width={170}
-                alt=""
-              />
+              <Image src={Partner} width={170} height={170} alt="parter" />
             </div>
             <div>
-              <img
-                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
-                width={170}
-                alt=""
-              />
-            </div>{" "}
+              <Image src={Partner} width={170} height={170} alt="parter" />
+            </div>
             <div>
-              <img
-                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
-                width={170}
-                alt=""
-              />
-            </div>{" "}
+              <Image src={Partner} width={170} height={170} alt="parter" />
+            </div>
             <div>
-              <img
-                src="https://www.paramountshop.com/cdn/shop/files/spongebob-squarepants-the-krusty-krab-home-of-the-krabby-patty-die-cut-sticker-363393_grande.png"
-                width={170}
-                alt=""
-              />
+              <Image src={Partner} width={170} height={170} alt="parter" />
+            </div>
+            <div>
+              <Image src={Partner} width={170} height={170} alt="parter" />
+            </div>
+            <div>
+              <Image src={Partner} width={170} height={170} alt="parter" />
+            </div>
+            <div>
+              <Image src={Partner} width={170} height={170} alt="parter" />
             </div>
           </div>
         </div>
@@ -353,7 +323,7 @@ export default function Home() {
         </p>
         <br />
         <p>
-          Fastwork.vercel.app คือคำตอบสำหรับผู้ที่ต้องการ "ความเร็ว"
+          Fastwork.vercel.app คือคำตอบสำหรับผู้ที่ต้องการ &lsquo;ความเร็ว&rsquo;
           ระบบของเราถูกพัฒนาขึ้นมาเพื่อมอบประสบการณ์การใช้งานที่รวดเร็วและราบรื่นที่สุด
           ตั้งแต่การค้นหาฟรีแลนซ์ การดูผลงาน การติดต่อสื่อสาร และการชำระเงิน
           ทุกขั้นตอนถูกออกแบบมาให้กระชับและมีประสิทธิภาพ
@@ -375,7 +345,7 @@ export default function Home() {
           ระบบการชำระเงินที่ปลอดภัยของเราช่วยให้คุณมั่นใจได้ว่างานจะถูกส่งมอบตามที่ตกลง
           และฟรีแลนซ์จะได้รับค่าตอบแทนอย่างเป็นธรรม
           สัมผัสประสบการณ์การจ้างงานที่รวดเร็วและมีประสิทธิภาพได้แล้ววันนี้ที่
-          Fastwork.vercel.app "เร็ว แรง ทะลุทุกข้อจำกัด"
+          Fastwork.vercel.app &lsquo;เร็ว แรง ทะลุทุกข้อจำกัด&rsquo;
         </p>
         <hr className="mt-10" />
       </div>
