@@ -46,11 +46,10 @@ export default function Home() {
           </form>
         </div>
       </div>
-      {/* Hero CTA */}
 
       {/* Menu🔥 */}
 
-      <div className=" w-4/6 m-auto bg-white rounded-lg p-4 relative top-[-40] shadow-xl flex justify-around items-center">
+      <div className=" w-4/6 m-auto bg-white rounded-lg p-4 relative bottom-[40] shadow-xl flex justify-around items-center">
         <a href="">
           <div className="text-center">
             <svg
