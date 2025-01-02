@@ -13,22 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title:
-    "Fasterwork.vercel.app แหล่งรวมฟรีแลนซ์ใจร้อน นอนคุก อย่าซีเล็ง เดี๋ยวซู้หริ่ง",
+  title: "Fasterwork.vercel.app แหล่งรวมฟรีแลนซ์สายซิ่ง",
   description: "แค่เร็วกว่าก็พอป่ะ",
   metadataBase: new URL("https://fasterwork.vercel.app/"),
   icons: "/meta.png",
   twitter: {
     card: "summary_large_image",
-    title:
-      "Fasterwork.vercel.app แหล่งรวมฟรีแลนซ์ใจร้อน นอนคุก อย่าซีเล็ง เดี๋ยวซู้หริ่ง",
+    title: "Fasterwork.vercel.app แหล่งรวมฟรีแลนซ์สายซิ่ง",
     description: "แค่เร็วกว่าก็พอป่ะ",
     creator: "@tanachuns",
     images: ["/meta.png"],
   },
   openGraph: {
-    title:
-      "Fasterwork.vercel.app แหล่งรวมฟรีแลนซ์ใจร้อน นอนคุก อย่าซีเล็ง เดี๋ยวซู้หริ่ง",
+    title: "Fasterwork.vercel.app แหล่งรวมฟรีแลนซ์สายซิ่ง",
     description: "แค่เร็วกว่าก็พอป่ะ",
     images: ["/meta.png"],
   },
